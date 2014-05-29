@@ -26,8 +26,8 @@ Web Component for Nokia HERE using Polymer.
 
 Attribute   | Options  | Default                                      | Description
 ---         | ---      | ---                                          | ---
-`width`     | *string* | ``  										  | The width of the map
-`height`    | *string* | ``  										  | The height of the map
+`width`     | *string* | `250`  									  | The width of the map in px
+`height`    | *string* | `250`  									  | The height of the map in px
 `zoom`      | *int*    | `5`                                          | The zoom of the map
 `center`    | *string* | `[52.51, 13.4]`                              | The center of the map
 
