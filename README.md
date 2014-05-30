@@ -1,4 +1,4 @@
-# &lt;nokia-here&gt;
+# &lt;here-maps&gt;
 
 Web Component for Nokia HERE using Polymer.
 
@@ -13,19 +13,21 @@ Web Component for Nokia HERE using Polymer.
 2. Import Custom Element:
 
 	```
-	<link rel="import" href="src/nokia-here.html">
+	<link rel="import" href="src/here-maps.html">
 	```
 
 3. Start using it!
 
 	```
-	<nokia-here width="800" height="400" zoom="8" center="[47.668681, 12.404144]"></nokia-here>
+	<here-maps width="800" height="400" zoom="8" center="[47.668681, 12.404144]"></here-maps>
 	```
 
 ## Options
 
 Attribute   | Options  | Default                                      | Description
 ---         | ---      | ---                                          | ---
+`key`       | *string* | ``  									      | App_Id
+`token`     | *string* | ``  									      | App_Code
 `width`     | *string* | `250`  									  | The width of the map in px
 `height`    | *string* | `250`  									  | The height of the map in px
 `zoom`      | *int*    | `5`                                          | The zoom of the map
