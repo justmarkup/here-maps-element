@@ -1,6 +1,6 @@
 # &lt;here-maps&gt;
 
-Web Component for Nokia HERE using Polymer.
+Web Component for Nokia HERE Maps using Polymer.
 
 ## Usage
 
