@@ -1,9 +1,9 @@
 {
   "name": "nokia-here-element",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/justmarkup/here-maps-element",
   "authors": [
-    "Breno Polanski"
+    "Michael Scharnagl"
   ],
   "description": "Web Component wrapper for Nokia HERE using Polymer",
   "main": "src/here-maps.html",

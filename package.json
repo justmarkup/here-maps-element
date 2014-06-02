@@ -1,6 +1,6 @@
 {
     "name": "here-maps-element",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "description": "Web Component wrapper for Nokia HERE using Polymer",
     "license": "MIT",
     "repository": {

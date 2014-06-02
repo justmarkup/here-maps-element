@@ -2,6 +2,16 @@
 
 Web Component for Nokia HERE Maps using Polymer.
 
+## Install
+
+Install the component using [Bower](http://bower.io/):
+
+```sh
+$ bower install here-maps-element --save
+```
+
+Or [download as ZIP](https://github.com/justmarkup/here-maps-element/archive/master.zip).
+
 ## Usage
 
 1. Import Web Components' polyfill:
