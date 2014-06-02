@@ -23,7 +23,7 @@ Or [download as ZIP](https://github.com/justmarkup/here-maps-element/archive/mas
 2. Import Custom Element:
 
 	```
-	<link rel="import" href="bower_components/bing-maps-element/src/bing-maps.html">
+	<link rel="import" href="bower_components/here-maps-element/src/here-maps.html">
 	```
 
 3. Start using it!
