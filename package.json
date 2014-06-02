@@ -1,0 +1,23 @@
+{
+    "name": "here-maps-element",
+    "version": "0.1.0",
+    "description": "Web Component wrapper for Nokia HERE using Polymer",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/justmarkup/here-maps-element"
+    },
+    "keywords": [
+        "here-maps",
+        "web-components"
+    ],
+    "author": {
+        "name": "Michael Scharnagl",
+        "email": "hallo@justmarkup.com",
+        "web": "http://justmarkup.com",
+        "twitter": "justmarkup.com"
+    },
+    "bugs": {
+        "url": "https://github.com/justmarkup/here-maps-element/issues"
+    }
+}

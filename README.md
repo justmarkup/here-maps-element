@@ -7,13 +7,13 @@ Web Component for Nokia HERE using Polymer.
 1. Import Web Components' polyfill:
 
 	```
-	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130816/polymer.min.js"></script>
+	<script src="bower_components/platform/platform.js"></script>
 	```
 
 2. Import Custom Element:
 
 	```
-	<link rel="import" href="src/here-maps.html">
+	<link rel="import" href="bower_components/bing-maps-element/src/bing-maps.html">
 	```
 
 3. Start using it!
