@@ -2,6 +2,10 @@
 
 Web Component for Nokia HERE Maps using Polymer.
 
+## Note
+
+This is not fully tested, so be careful when using it.
+
 ## Install
 
 Install the component using [Bower](http://bower.io/):
@@ -46,4 +50,16 @@ Attribute   | Options  | Default                                      | Descript
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT)
+Dual licensed under GPLv2 & MIT
+
+Copyright © 2014 justmarkup hallo@justmarkup.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of 
+this software and associated documentation files (the "Software"), to deal in 
+the Software without restriction, including without limitation the rights to use, 
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the 
+Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Software.
